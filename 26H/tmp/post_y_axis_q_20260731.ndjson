@@ -1,0 +1,1 @@
+{"maxCommandBytes": 1024, "schema": "ek.telemetry/v1", "type": "hello", "writeEnabled": true}
